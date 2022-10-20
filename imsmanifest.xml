@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fwXivbdsR7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">مشروع مادة العلوم - إعداد الطالب فارس الخطيب</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="مشروع_مادة_العلوم_-_إعداد_الطالب_فارس_الخطيب_ORG">
+    <organization identifier="مشروع_مادة_العلوم_-_إعداد_الطالب_فارس_الخطيب_ORG">
+      <title>مشروع مادة العلوم - إعداد الطالب فارس الخطيب</title>
+      <item identifier="فارس_SCO" isvisible="true" identifierref="__6fwXivbdsR7_RES">
+        <title>مشروع مادة العلوم - إعداد الطالب فارس الخطيب</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fwXivbdsR7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5dlo6VO2aLK_X_80_DX1226_DY1226_CX577_CY325.png" />
+      <file href="mobile/67eJftwZoUd_80_DX94_DY94_CX53_CY52.png" />
+      <file href="story_content/6PulLAehSl6_44100_96_0.mp3" />
+      <file href="mobile/67eJftwZoUd_80_DX94_DY94_CX73_CY72.png" />
+      <file href="story_content/5qSGgQP7JBR_44100_96_0.mp3" />
+      <file href="story_content/video_6XNPmkq2njn_19_96_650x366.mp4" />
+      <file href="story_content/5djgiP0LpIV_captions.js" />
+      <file href="mobile/poster_5djgiP0LpIV_video_6XNPmkq2njn_19_96_650x366.jpg" />
+      <file href="story_content/video_5m2v82wkyha_19_96_650x366.mp4" />
+      <file href="story_content/5xMGL1LatHv_captions.js" />
+      <file href="mobile/poster_5xMGL1LatHv_video_5m2v82wkyha_19_96_650x366.jpg" />
+      <file href="story_content/video_5cSPVYalTzT_19_96_650x366.mp4" />
+      <file href="story_content/5y2Sls7naNa_captions.js" />
+      <file href="mobile/poster_5y2Sls7naNa_video_5cSPVYalTzT_19_96_650x366.jpg" />
+      <file href="story_content/video_5hY3fJyOSEg_19_96_650x368.mp4" />
+      <file href="story_content/6oppbFTyFmH_captions.js" />
+      <file href="mobile/poster_6oppbFTyFmH_video_5hY3fJyOSEg_19_96_650x368.jpg" />
+      <file href="story_content/video_6FVQEVDLOgR_19_96_756x368.mp4" />
+      <file href="story_content/5dYGDLXK9dx_captions.js" />
+      <file href="mobile/poster_5dYGDLXK9dx_video_6FVQEVDLOgR_19_96_756x368.jpg" />
+      <file href="story_content/video_5kfCLfuQk5E_19_96_756x384.mp4" />
+      <file href="story_content/60r8DmgQ2BW_captions.js" />
+      <file href="mobile/poster_60r8DmgQ2BW_video_5kfCLfuQk5E_19_96_756x384.jpg" />
+      <file href="mobile/6e1y2ReCEKd_80_DX282_DY282_CX221_CY221.png" />
+      <file href="mobile/67VDS05lQOI_80_DX282_DY282_CX219_CY154.png" />
+      <file href="mobile/6YKTmL3ISW8_80_DX282_DY282_CX221_CY221.png" />
+      <file href="mobile/6hUS1GuZ654_80_DX282_DY282_CX220_CY166.png" />
+      <file href="mobile/69RNvl1OYjI_80_DX282_DY282_CX221_CY221.png" />
+      <file href="mobile/6C6vZ76BzVY_80_DX210_DY210_CX146_CY165.png" />
+      <file href="mobile/6pEZdVppVeH_80_DX1096_DY1096_CX800_CY600.gif" />
+      <file href="story_content/5xWrMjIhBII_44100_96_0.mp3" />
+      <file href="mobile/5dGXvpVcaf6_80_DX202_DY202_CX157_CY154.png" />
+      <file href="mobile/6HB3WzsDM18_80_DX344_DY344_CX214_CY236.png" />
+      <file href="mobile/6pEZdVppVeH_80_DX1096_DY1096_CX172_CY129.gif" />
+      <file href="story_content/6JZJn4slhgM_44100_96_0.mp3" />
+      <file href="mobile/5dbCtixJ8qu_80_DX536_DY536_CX268_CY159.gif" />
+      <file href="story_content/5vcTW4dnIiu_44100_96_0.mp3" />
+      <file href="mobile/5g1kRCRPLiD_80_DX558_DY558_CX439_CY237.gif" />
+      <file href="story_content/6DLkLrKVHP4_44100_96_0.mp3" />
+      <file href="mobile/5ZuJGjAYJlJ_80_DX246_DY246_CX166_CY193.png" />
+      <file href="mobile/5ZuJGjAYJlJ_80_DX244_DY244_CX142_CY165.png" />
+      <file href="story_content/69QfOrsmth0_44100_96_0.mp3" />
+      <file href="mobile/6lRlnvGbUKy_80_DX440_DY440_CX220_CY123.gif" />
+      <file href="mobile/6SvbOIjbeCc_80_DX402_DY402_CX220_CY220.gif" />
+      <file href="story_content/6roByr36NJK_44100_96_0.mp3" />
+      <file href="mobile/5dlo6VO2aLK_X_80_DX1228_DY1228_CX666_CY375.png" />
+      <file href="mobile/67eJftwZoUd_80_DX94_DY94_CX67_CY66.png" />
+      <file href="story_content/5rOzum2U1hV_44100_96_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6oVUeshfz1H.png" />
+      <file href="mobile/Shape5xtQgyXxVTA.png" />
+      <file href="mobile/Shape6Djuo8R7PUa.png" />
+      <file href="mobile/Shape6K4iRCwLY8J.png" />
+      <file href="mobile/Shape6ZhS8WF5GiU.png" />
+      <file href="mobile/Shape5aMDztzSWaD.png" />
+      <file href="mobile/Shape5zitjeIvK3m.png" />
+      <file href="mobile/Shape5eF7okKXpiQ.png" />
+      <file href="mobile/Shape6gJGTcek6Ic.png" />
+      <file href="mobile/Shape6V13shXbTHG.png" />
+      <file href="mobile/Shape5ioccEv84Bo.png" />
+      <file href="mobile/Shape6H7xV60lqHV.png" />
+      <file href="mobile/Shape6gsaEfGqASw.png" />
+      <file href="mobile/Shape6i8YOKqfWaN.png" />
+      <file href="mobile/Shape6WxSRQA3qul.png" />
+      <file href="mobile/Shape67kJEPHHmPJ.png" />
+      <file href="mobile/Shape5l1mWHpBL9e.png" />
+      <file href="mobile/Shape65fdiFs9bw5.png" />
+      <file href="mobile/Shape6ppp2oNOuJh.png" />
+      <file href="mobile/Shape6fZ8t6704yr.png" />
+      <file href="mobile/Shape5qYZpkWU8om.png" />
+      <file href="mobile/Shape5junfJqfFOo.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5uAGTP5sih7.js" />
+      <file href="html5/data/js/5uCwxQVZRii.js" />
+      <file href="html5/data/js/5ZToiC1QxF5.js" />
+      <file href="html5/data/js/67jmDmACX0e.js" />
+      <file href="html5/data/js/6aOsQo4GHFk.js" />
+      <file href="html5/data/js/6p76ItWIAXs.js" />
+      <file href="html5/data/js/6QzWmoocAWo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
